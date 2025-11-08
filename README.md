@@ -2,9 +2,9 @@
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Brianna Vanessa Lopez Pardo [22212261]; l22212261@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,8 +42,8 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
 
+Palabras clave: Regeracion de globujos rojos; Ecuaciones EDO; EPO; Eritropoyesis; Modalado matematico.
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB \[.mlx].
